@@ -2,7 +2,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby infinite Scroll`,
+    title: `Unsplash infinite Scroll with gatsby.js`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@shup30`,
   },
