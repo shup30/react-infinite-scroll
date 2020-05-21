@@ -14,7 +14,7 @@ const Header = ({ siteTitle }) => (
           }}
           className="has-text-white is-size-3"
         >
-          {siteTitle} 🐶
+          {siteTitle} 
         </Link>
       </div>
       <div className="navbar-end" style={{ marginRight: "3em" }}>
