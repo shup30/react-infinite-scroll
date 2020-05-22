@@ -9,12 +9,12 @@ const Gallery = () => {
       <SEO title="Gallery" />
       <h1 className="is-size-3">Images from Unsplash...</h1>
       <p style={{ marginBottom: "5%" }}>
-        Now this is the Law of the Jungle, as old and true as the sky, for as
-        long as you keep scrolling, you shall find more doggo images 🐶 🐕.
+      "Going to the mountains is like going home." - John Muir <br/>
+       keep scrolling, you shall find more images.
       </p>
       <InfiniteImages />
     </Layout>
   )
 }
 
-export default Gallery
+export default Gallery;
